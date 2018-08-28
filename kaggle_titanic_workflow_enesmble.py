@@ -4,7 +4,7 @@ Created on Mon Aug 20 08:07:07 2018
 
 @author: danis
 
-Create functions (better to create objects to practice OO)
+Create functions 
 that will make the kaggle submission faster and easier
 1. functions for data transforms
 2. function for model run
